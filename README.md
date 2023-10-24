@@ -3,7 +3,7 @@ This repository aims to share the logical model and the resulting data regarding
 
 ## Requirements
 
-The model is provided in a .zginml file. It can be read by GINsim software or by ginsim package in python language.
+The model is provided in a .zginml file. It can be read by GINsim software or by the ginsim package in Python language.
 
 > [GINsim software](https://ginsim.org/)
 
@@ -11,3 +11,11 @@ The model is provided in a .zginml file. It can be read by GINsim software or by
 
 
 ## Simulations
+
+The simulations were performed with the use of a user-friendly graphical interface provided by GINsim in Java. The following tools were used:
+
+> Compute stable states
+
+> Analyse circuits
+
+
