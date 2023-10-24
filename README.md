@@ -3,7 +3,9 @@ This repository aims to share the logical model and the resulting data regarding
 
 ## Requirements
 
-The model is provided in a .zginml file.
+The model is provided in a .zginml file. GINSIM software is required to read the model file.
 
-> GINsim software <https://ginsim.org/>
+> [GINsim software](https://ginsim.org/)
 
+
+## Simulations
